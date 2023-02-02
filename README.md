@@ -7,4 +7,4 @@ I'm a Telecommunications Engineer and a MSc student in Telecommunications Engine
 - 💬 Ask me about embedded systems design, Machine Learning, Deep Learning and DSP.
 
 ## My most used programming languages
-![margobra8's langs](https://github-readme-stats.vercel.app/api/top-langs?username=margobra8&count_private=true&show_icons=true&theme=dark&layout=compact&langs_count=6)
+![margobra8's langs](https://github-readme-stats.vercel.app/api/top-langs?username=margobra8&count_private=true&show_icons=true&theme=transparent&layout=compact&langs_count=6)
